@@ -1,6 +1,6 @@
 const blogs = [
     {title: 'Tips for Moving Out',
-    body: `One minute you are moving into your apartment, the next your lease is almost up! When it is finally time to pack your things and go, move-out day can seem to be one long and stressful day; but it doesn’t have to be. You can never begin planning too soon and organizing your time to complete tasks prior to move-out, will help make it a seamless process. Start planning your move-out today with these tips to ease the process:
+    body: <div>One minute you are moving into your apartment, the next your lease is almost up! When it is finally time to pack your things and go, move-out day can seem to be one long and stressful day; but it doesn’t have to be. You can never begin planning too soon and organizing your time to complete tasks prior to move-out, will help make it a seamless process. Start planning your move-out today with these tips to ease the process:
 
     Plan ahead: The more you plan, the less rushed you feel on move-out day, and the less daunting the process becomes. Plan well before your final move-out day. Sometimes it is tricky deciding what must be done sooner rather than later, but the earlier you establish a move-out timeline, the more seamless the transition becomes.
     
@@ -23,7 +23,8 @@ const blogs = [
     
     The 2-week countdown: Move out day is only two weeks away, and you are more than prepared for the final day in your apartment. Now to start thinking of all the little loose ends that need tying up. Settle any outstanding bills you have with friends or local merchants. Get your car checked and serviced if you have a long drive, return library books, sell textbooks or return lab equipment to school.  With less than a week to go, turn your attention to inside the apartment. Disconnect the appliances that will come with you and organize them. Pick out personal items that you will need right away in your new home and pack a box that will be by your side for the move. 
     
-    Day of move - have fun with it: Yes, moving can be stressful, but have fun with it. Treat yourself at the end of moving day with ice cream or a night out with friends. Moving to a new place can be exciting and fun, so have fun surfing the web to look for the new salons, gyms, restaurants, and other places you will be using. Remember to snap a few photos of the big move- a few years from now it will be great to look back and see how far you have come. Good Luck!!`,
+    Day of move - have fun with it: Yes, moving can be stressful, but have fun with it. Treat yourself at the end of moving day with ice cream or a night out with friends. Moving to a new place can be exciting and fun, so have fun surfing the web to look for the new salons, gyms, restaurants, and other places you will be using. Remember to snap a few photos of the big move- a few years from now it will be great to look back and see how far you have come. Good Luck!!`
+    </div>,
     meta: '%%sitename%% provides tips for moving out at the end of your lease. Learn more!',
     date: 'March 24, 2021'},
 

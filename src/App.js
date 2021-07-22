@@ -15,10 +15,8 @@ function App() {
           <CopyToClipboard text={blogs[0].title}>
             <div class="text-box">{blogs[0].title}</div>
           </CopyToClipboard>
-            <h3>Body:</h3>
-          <CopyToClipboard text={blogs[0].body}>
+            <h3>Body: (Use original documents to copy)</h3>
             <div class="text-box">{blogs[0].body}</div>
-          </CopyToClipboard>
             <h3>Meta Description:</h3>
           <CopyToClipboard text={blogs[0].meta}>
             <div class="text-box">{blogs[0].meta}</div>
