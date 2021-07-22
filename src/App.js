@@ -31,10 +31,8 @@ function App() {
           <CopyToClipboard text={blogs[1].title}>
             <div class="text-box">{blogs[1].title}</div>
           </CopyToClipboard>
-            <h3>Body:</h3>
-          <CopyToClipboard text={blogs[1].body}>
+            <h3>Body: (Use original documents to copy)</h3>
             <div class="text-box">{blogs[1].body}</div>
-          </CopyToClipboard>
             <h3>Meta Description:</h3>
           <CopyToClipboard text={blogs[1].meta}>
             <div class="text-box">{blogs[1].meta}</div>
@@ -49,9 +47,8 @@ function App() {
             <div class="text-box">{blogs[2].title}</div>
           </CopyToClipboard>
             <h3>Body:</h3>
-          <CopyToClipboard text={blogs[2].body}>
+            <h3>Body: (Use original documents to copy)</h3>
             <div class="text-box">{blogs[2].body}</div>
-          </CopyToClipboard>
             <h3>Meta Description:</h3>
           <CopyToClipboard text={blogs[2].meta}>
             <div class="text-box">{blogs[2].meta}</div>
@@ -65,10 +62,8 @@ function App() {
           <CopyToClipboard text={blogs[3].title}>
             <div class="text-box">{blogs[3].title}</div>
           </CopyToClipboard>
-            <h3>Body:</h3>
-          <CopyToClipboard text={blogs[3].body}>
+            <h3>Body: (Use original documents to copy)</h3>
             <div class="text-box">{blogs[3].body}</div>
-          </CopyToClipboard>
             <h3>Meta Description:</h3>
           <CopyToClipboard text={blogs[3].meta}>
             <div class="text-box">{blogs[3].meta}</div>
@@ -82,10 +77,8 @@ function App() {
           <CopyToClipboard text={blogs[4].title}>
             <div class="text-box">{blogs[4].title}</div>
           </CopyToClipboard>
-            <h3>Body:</h3>
-          <CopyToClipboard text={blogs[4].body}>
+            <h3>Body: (Use original documents to copy)</h3>
             <div class="text-box">{blogs[4].body}</div>
-          </CopyToClipboard>
             <h3>Meta Description:</h3>
           <CopyToClipboard text={blogs[4].meta}>
             <div class="text-box">{blogs[4].meta}</div>
